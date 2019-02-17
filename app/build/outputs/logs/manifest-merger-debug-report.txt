@@ -6,6 +6,7 @@ INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe-Starter\app\src
 INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b41c365782f58358c72e9ac3ff0013d6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\48d767b229295ef1136acdb79e6c3ae6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bced31211e970fd15a11ed1841e14d33\AndroidManifest.xml:17:1-22:12
@@ -67,6 +68,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\cach
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b41c365782f58358c72e9ac3ff0013d6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\48d767b229295ef1136acdb79e6c3ae6\AndroidManifest.xml:20:5-44
